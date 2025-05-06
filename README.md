@@ -1,0 +1,2 @@
+- used HTML and CSS and simple javaScript
+- open the index.html file to run the project, it will appear in a browser
